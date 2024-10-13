@@ -11,6 +11,7 @@
   height: 100vh;
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -46,13 +47,14 @@
 }
 
 .hero-section .btn:hover {
-  background-color: #e67e22;
+  background-color: #5f69f1;
+  color: #070000;
 }
 
 /* Body Styling */
 body {
   font-family: Arial, sans-serif;
-  line-height: 1.6;
+ 
   margin: 0;
   padding: 0;
   background: linear-gradient(315deg, rgba(101, 0, 94, 1) 3%, rgba(60, 132, 206, 1) 38%, rgba(48, 238, 226, 1) 68%, rgba(255, 25, 25, 1) 98%);
@@ -216,6 +218,28 @@ footer {
   nav a {
     font-size: 16px;
     padding: 8px;
+  }
+  .hero-section h1 {
+    font-size: 30px;
+    font-weight: 700;
+    
+  }
+  
+  .hero-section p {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: white;
+   
+  }
+  
+  .hero-section .btn {
+    background-color: rgb(194, 194, 235);
+    color: #070000;
+    padding: 20px 30px;
+    height: 30px;
+    font-size: 10px;
+    border-radius: 10px;
+  
   }
 }
 

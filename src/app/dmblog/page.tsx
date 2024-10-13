@@ -44,7 +44,7 @@ export default function Dm() {
 
       <h2 className="text-2xl font-semibold mt-6">6 Beginner-Friendly Email Marketing Campaign Examples</h2>
       <ul className="list-disc mt-2">
-        <li>Plochman's Welcome Email</li>
+        <li>Plochmans Welcome Email</li>
         <li>NerdWallet Nurture Email</li>
         <li>Apple Specific Audience Offer Email</li>
         <li>AutoTrader Re-Engagement Email</li>

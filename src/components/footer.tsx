@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer className="w-full py-6 bg-blue-200 text-black text-center relative bottom-0">
-      <p className="text-sm font-bold">© 2024 KHAN'S BLOG. All rights reserved.</p>
+      <p className="text-sm font-bold">© 2024 KHANS BLOG. All rights reserved.</p>
 
       {/* Load Font Awesome */}
       <link
@@ -19,7 +19,7 @@ export default function Footer() {
           <i className="fab fa-facebook"></i>
         </a>
         <a
-          href="https://github.com/shashmeerkhan?tab=repositories"
+          href="https://github.com/shashmeerkhan"
           target="_blank"
           aria-label="Instagram"
           className="text-3xl hover:text-pink-500 transition duration-300 transform hover:-translate-y-1"

@@ -32,7 +32,7 @@ export default function Header() {
     </div>
   </div>
   <div className="navbar-center">
-    <a className="btn btn-ghost text-3xl">KHAN'S BLOG</a>
+    <a className="btn btn-ghost text-3xl">KHANS BLOG</a>
   </div>
   <div className="navbar-end">
     <button className="btn btn-ghost btn-circle">

@@ -23,7 +23,7 @@ export default function Html() {
                   HTML (Hypertext Markup Language) is the fundamental language for creating web pages. It acts as the skeleton of a website, structuring and organizing content like text, images, videos, and links. Every web developer, whether a beginner or an expert, starts their journey with HTML because it forms the building blocks of the internet.
               </p>
               <p>
-                  In this blog, we’ll explore the basics of HTML, why it's essential, and how you can start building your web pages today!
+                  In this blog, we’ll explore the basics of HTML, why its essential, and how you can start building your web pages today!
               </p>
           </section>
 
@@ -60,9 +60,9 @@ export default function Html() {
 
           <section>
               <h2>Why Learn HTML?</h2>
-              <img src="../Images/questionmark.webp" alt="Why Learn HTML" />
+              
               <ul>
-                  <li><strong>Core of Web Development:</strong> HTML is the foundation for all web development. Whether you're designing a simple blog or a complex web application, HTML is indispensable.</li>
+                  <li><strong>Core of Web Development:</strong> HTML is the foundation for all web development. Whether youre designing a simple blog or a complex web application, HTML is indispensable.</li>
                   <li><strong>Easy to Learn:</strong> HTML is relatively simple, even for beginners. It consists of basic elements that are easy to grasp, and its logical structure makes it user-friendly.</li>
                   <li><strong>Integration with Other Languages:</strong> HTML works hand-in-hand with CSS (Cascading Style Sheets) for styling and JavaScript for functionality. Mastering HTML is the first step toward understanding the entire web development process.</li>
                   <li><strong>Universal Standard:</strong> HTML is recognized globally, which means any website, regardless of its complexity, relies on HTML for structuring content.</li>
@@ -91,14 +91,14 @@ export default function Html() {
               <h3>Links:</h3>
               <pre>
                   <code>
-                      &lt;a href="https://www.example.com"&gt;Visit Example&lt;/a&gt;
+                      &lt;a href=https://www.example.com&gt;Visit Example&lt;/a&gt;
                   </code>
               </pre>
 
               <h3>Images:</h3>
               <pre>
                   <code>
-                      &lt;img src="image.jpg" alt="An example image"&gt;
+                      &lt;img src=image.jpg alt=An example image&gt;
                   </code>
               </pre>
 
@@ -115,9 +115,9 @@ export default function Html() {
 
           <section>
               <h2>How to Create Your First Web Page</h2>
-              <img src="../Images/first webpage.jpg" alt="Create Your First Web Page" />
+              
               <ol>
-                  <li><strong>Choose a Text Editor:</strong> To start writing HTML, you’ll need a simple text editor like Notepad (Windows), TextEdit (Mac), or more advanced editors like Visual Studio Code or Sublime Text.</li>
+                  <li><strong>Choose a Text Editor:</strong> To start writing HTML, youll need a simple text editor like Notepad (Windows), TextEdit (Mac), or more advanced editors like Visual Studio Code or Sublime Text.</li>
                   <li><strong>Write HTML Code:</strong> Begin by typing your HTML code in the editor, as shown in the example structure above.</li>
                   <li><strong>Save the File:</strong> Save your file with the <code>.html</code> extension, for example, <code>index.html</code>.</li>
                   <li><strong>Open in a Browser:</strong> Open the saved file in a browser to see your first web page in action!</li>
@@ -127,7 +127,7 @@ export default function Html() {
           <section>
               <h2>Conclusion</h2>
               <p>
-                  HTML is your gateway to web development. By learning its tags and structure, you can create web pages and lay the groundwork for further skills like CSS and JavaScript. Whether you're building a personal blog, a portfolio, or diving into professional web development, HTML is the perfect place to start. Keep practicing, and soon you'll be on your way to mastering the web!
+                  HTML is your gateway to web development. By learning its tags and structure, you can create web pages and lay the groundwork for further skills like CSS and JavaScript. Whether youre building a personal blog, a portfolio, or diving into professional web development, HTML is the perfect place to start. Keep practicing, and soon youll be on your way to mastering the web!
               </p>
               <p><strong>Happy coding!</strong></p>
           </section>

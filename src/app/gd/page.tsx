@@ -19,7 +19,7 @@ export default function Gd() {
         <ul>
             <li><strong>Balance</strong>: Ensuring visual stability in design by distributing elements evenly across a layout.</li>
             <li><strong>Contrast</strong>: Creating visual interest by combining elements that are different in color, size, shape, or texture.</li>
-            <li><strong>Hierarchy</strong>: Organizing elements to guide the viewer's eye from the most important to the least important information.</li>
+            <li><strong>Hierarchy</strong>: Organizing elements to guide the viewers eye from the most important to the least important information.</li>
             <li><strong>Alignment</strong>: Proper arrangement of elements to create a clean, professional look and improve readability.</li>
             <li><strong>Repetition</strong>: Using consistent elements such as colors, fonts, and shapes to create unity and cohesion in the design.</li>
         </ul>
@@ -34,17 +34,17 @@ export default function Gd() {
         <p>Illustrator is a vector-based graphic design software used to create logos, illustrations, icons, and other scalable artwork. Its precision tools are ideal for creating detailed, high-quality visuals that can be resized without losing quality.</p>
 
         <h3>3. CorelDRAW</h3>
-        <p>CorelDRAW is a versatile tool used for vector graphics, layout, and illustration. It's popular among graphic designers for creating logos, brochures, and print designs due to its extensive features and ease of use.</p>
+        <p>CorelDRAW is a versatile tool used for vector graphics, layout, and illustration. Its popular among graphic designers for creating logos, brochures, and print designs due to its extensive features and ease of use.</p>
 
         <h3>4. Figma</h3>
-        <p>Figma is a web-based design tool that allows for real-time collaboration on user interface (UI) and user experience (UX) design. It's highly favored for designing websites, mobile apps, and other digital interfaces.</p>
+        <p>Figma is a web-based design tool that allows for real-time collaboration on user interface (UI) and user experience (UX) design. Its highly favored for designing websites, mobile apps, and other digital interfaces.</p>
     </section>
 
     <section>
         <h2>Applications of Graphic Design</h2>
         <ul>
             <li><strong>Branding and Identity</strong>: Graphic design plays a major role in creating brand logos, business cards, packaging, and overall identity. Strong branding helps businesses build recognition and loyalty.</li>
-            <li><strong>Marketing and Advertising</strong>: Whether it's print ads, digital banners, or social media posts, graphic design is essential in creating visuals that attract customers and communicate messages effectively.</li>
+            <li><strong>Marketing and Advertising</strong>: Whether its print ads, digital banners, or social media posts, graphic design is essential in creating visuals that attract customers and communicate messages effectively.</li>
             <li><strong>Web and App Design</strong>: Graphic designers create visually appealing layouts for websites and apps, ensuring user-friendly experiences that are both functional and engaging.</li>
             <li><strong>Print Media</strong>: From brochures and flyers to posters and magazines, graphic design is crucial in producing attractive, readable, and effective printed materials.</li>
         </ul>

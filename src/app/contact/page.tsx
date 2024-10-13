@@ -10,7 +10,7 @@ export default function Contact() {
         <div className="contact-details max-w-2xl mx-auto bg-white shadow-md rounded-lg p-6">
           <h2 className="text-2xl font-semibold mb-4">Contact Us</h2>
           <p className="mb-2">
-          Khan's Blog
+          Khans Blog
 Baba Hassan St, near Quraishi masjid, Sector 11-D Sector 11 D New Karachi Town, Karachi, Karachi City, Sindh
           </p>
 

@@ -32,20 +32,20 @@ export default function Js() {
           JavaScript is a <strong>programming language</strong> that runs in the browser and enables you to create interactive websites. It can modify the structure and style of a webpage after it has been loaded, respond to user actions (like clicks, input, or scrolling), and even communicate with servers without reloading the page (AJAX).
         </p>
         <p className="mt-2">
-          Here’s a simple JavaScript example that displays an alert when the webpage loads:
+          Heres a simple JavaScript example that displays an alert when the webpage loads:
         </p>
 
         <pre className="bg-gray-100 p-4 mt-4 rounded">
           <code>
             &lt;!DOCTYPE html&gt; <br />
-            &lt;html lang="en"&gt;<br />
+            &lt;html lang=en&gt;<br />
             &nbsp;&lt;head&gt;<br />
             &nbsp;&nbsp;&lt;title&gt;JavaScript Example&lt;/title&gt;<br />
             &nbsp;&lt;/head&gt;<br />
             &nbsp;&lt;body&gt;<br />
             &nbsp;&nbsp;&lt;h1&gt;Welcome to JavaScript&lt;/h1&gt;<br />
             &nbsp;&nbsp;&lt;script&gt;<br />
-            &nbsp;&nbsp;&nbsp;alert('Hello, welcome to JavaScript!');<br />
+            &nbsp;&nbsp;&nbsp;alert(Hello, welcome to JavaScript!);<br />
             &nbsp;&nbsp;&lt;/script&gt;<br />
             &nbsp;&lt;/body&gt;<br />
             &lt;/html&gt;
@@ -73,7 +73,7 @@ export default function Js() {
 
         <pre className="bg-gray-100 p-4 mt-4 rounded">
           <code>
-            let message = "Hello, World!";<br />
+            let message = Hello, World!;<br />
             const pi = 3.14;
           </code>
         </pre>
@@ -81,7 +81,7 @@ export default function Js() {
         <h3 className="text-xl font-semibold mt-4">Data Types:</h3>
         <p className="mt-2">JavaScript supports multiple data types including:</p>
         <ul className="list-disc list-inside mt-4">
-          <li><strong>String</strong> (e.g., "Hello")</li>
+          <li><strong>String</strong> (e.g., Hello)</li>
           <li><strong>Number</strong> (e.g., 3.14, 42)</li>
           <li><strong>Boolean</strong> (e.g., true, false)</li>
           <li><strong>Array</strong> (e.g., [1, 2, 3])</li>
@@ -94,10 +94,10 @@ export default function Js() {
         <pre className="bg-gray-100 p-4 mt-4 rounded">
           <code>
             function greet(name) &#123;<br />
-            &nbsp;&nbsp;return "Hello, " + name;<br />
+            &nbsp;&nbsp;return Hello,  + name;<br />
             &#125;<br />
-            let message = greet("Alice");<br />
-            console.log(message); // Output: "Hello, Alice"
+            let message = greet(Alice);<br />
+            console.log(message); // Output: Hello, Alice
           </code>
         </pre>
       </section>

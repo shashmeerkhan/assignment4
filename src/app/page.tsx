@@ -12,7 +12,7 @@ export default function Home() {
       </div>
       <div className="hero-section">
      
-     <h1>Welcome to KHAN'S BLOG</h1>
+     <h1>Welcome to KHAN BLOG</h1>
      <p>We provide quality education and information throw our blogs.</p>
      <a href="/blog" className="btn">Read now</a>
   </div>

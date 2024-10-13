@@ -17,10 +17,10 @@ export default function Css() {
           height={400}
         />
         <p>
-          CSS (Cascading Style Sheets) is a language that controls the presentation of web pages. While HTML structures the content, CSS styles it by adding colors, layouts, fonts, and more, making websites visually appealing. Whether you're a beginner or a seasoned developer, mastering CSS is crucial for creating modern, responsive, and beautiful web designs.
+          CSS (Cascading Style Sheets) is a language that controls the presentation of web pages. While HTML structures the content, CSS styles it by adding colors, layouts, fonts, and more, making websites visually appealing. Whether youre a beginner or a seasoned developer, mastering CSS is crucial for creating modern, responsive, and beautiful web designs.
         </p>
         <p>
-          In this blog, we’ll dive into the basics of CSS, how it works, and why it’s an essential part of web development.
+          In this blog, we will dive into the basics of CSS, how it works, and why its an essential part of web development.
         </p>
       </section>
 
@@ -29,12 +29,12 @@ export default function Css() {
         <p>
           CSS is a stylesheet language used to describe how HTML elements should be displayed on a screen, paper, or other media. It allows you to control the layout, color, typography, and overall aesthetic of your web pages without altering the HTML structure.
         </p>
-        <p>Here’s an example of how CSS works with HTML:</p>
+        <p>Heres an example of how CSS works with HTML:</p>
         <pre>
           <code>
             &lt;!DOCTYPE html&gt;
             <br />
-            &lt;html lang="en"&gt;
+            &lt;html lang=en&gt;
             <br />
             &lt;head&gt;
             <br />
@@ -102,7 +102,7 @@ export default function Css() {
         <p>
           The basic structure of CSS includes <strong>selectors</strong>, <strong>properties</strong>, and <strong>values</strong>. A <strong>selector</strong> targets the HTML element you want to style, the <strong>property</strong> defines what you want to change (e.g., color, font size), and the <strong>value</strong> specifies the result.
         </p>
-        <p>Here’s a simple CSS rule:</p>
+        <p>Heres a simple CSS rule:</p>
         <pre>
           <code>
             h1 &#123;
@@ -138,7 +138,7 @@ export default function Css() {
             HTML example:
             <pre>
               <code>
-                &lt;p class="example-class"&gt;This is a paragraph.&lt;/p&gt;
+                &lt;p (class=example-class)&gt;This is a paragraph.&lt;/p&gt;
               </code>
             </pre>
           </li>
@@ -154,7 +154,7 @@ export default function Css() {
             HTML example:
             <pre>
               <code>
-                &lt;div id="example-id"&gt;This is a div.&lt;/div&gt;
+                &lt;div id=example-id&gt;This is a div.&lt;/div&gt;
               </code>
             </pre>
           </li>
@@ -168,7 +168,7 @@ export default function Css() {
           <li>
             <strong>Inline CSS:</strong> CSS written directly within an HTML element using the <code>style</code> attribute.
             <pre>
-              <code>&lt;p style="color: blue;"&gt;This paragraph is blue.&lt;/p&gt;</code>
+              <code>&lt;p style=color: blue;&gt;This paragraph is blue.&lt;/p&gt;</code>
             </pre>
           </li>
           <li>
@@ -185,14 +185,17 @@ export default function Css() {
             <strong>External CSS:</strong> CSS written in a separate <code>.css</code> file and linked to the HTML document. This is the most efficient and scalable method for styling multiple web pages.
             <pre>
               <code>
-                /* Create a file called styles.css */ <br />
+                {/*  Create a file called styles.css */  }
+                <br />
                 body &#123; <br />
                 &nbsp;&nbsp;background-color: white; <br />
                 &nbsp;&nbsp;color: black; <br />
-                &#125; <br />
+                &#125;
+               
                 <br />
-                /* Link it in your HTML */ <br />
-                &lt;link rel="stylesheet" href="styles.css" /&gt;
+                {/* Link it in your HTML */  }
+                <br />
+                &lt;link relstylesheet href=styles.css /&gt;
               </code>
             </pre>
           </li>
@@ -210,7 +213,7 @@ export default function Css() {
           <li><strong>Border:</strong> A line that surrounds the padding (optional).</li>
           <li><strong>Margin:</strong> Space outside the border, separating the element from others.</li>
         </ol>
-        <p>Here’s an example of how the box model works:</p>
+        <p>Here is an example of how the box model works:</p>
         <pre>
           <code>
             div &#123; <br />
@@ -228,7 +231,7 @@ export default function Css() {
         <p>
           One of the most powerful features of CSS is its ability to create responsive designs. With media queries, you can apply different styles depending on the screen size or device type.
         </p>
-        <p>Here’s an example of a media query that adjusts styles for screens smaller than 768px:</p>
+        <p>Here is an example of a media query that adjusts styles for screens smaller than 768px:</p>
         <pre>
           <code>
             @media (max-width: 768px) &#123; <br />
@@ -249,7 +252,7 @@ export default function Css() {
       <section>
         <h2>Conclusion</h2>
         <p>
-          CSS is the key to creating visually appealing and responsive websites. Whether you're designing a simple blog or a complex web application, mastering CSS will give you the ability to control every aspect of your site’s appearance. As you become more comfortable with selectors, properties, and responsive design, you'll unlock new possibilities for building beautiful web experiences.
+          CSS is the key to creating visually appealing and responsive websites. Whether youre designing a simple blog or a complex web application, mastering CSS will give you the ability to control every aspect of your sites appearance. As you become more comfortable with selectors, properties, and responsive design, youll unlock new possibilities for building beautiful web experiences.
         </p>
         <p><strong>Happy Styling!</strong></p>
       </section>

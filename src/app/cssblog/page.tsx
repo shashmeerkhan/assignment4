@@ -1,5 +1,5 @@
 import Image from "next/image";
-import css from "../public/css.webp";
+import css from "../public/css.png";
 
 export default function Css() {
   return (

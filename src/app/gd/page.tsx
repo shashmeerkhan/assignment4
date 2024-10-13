@@ -1,4 +1,4 @@
-import ps from "../Public/ps.webp";
+import ps from "../Public/pshop.png";
 import Image from "next/image";
 
 export default function Gd() {

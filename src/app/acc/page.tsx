@@ -1,4 +1,4 @@
-import acc from "../Public/acc.webp";
+import acc from "../Public/acc.png";
 import Image from "next/image";
 
 export default function Acc() {

@@ -1,4 +1,4 @@
-import dm from "../Public/DM.webp";
+import dm from "../Public/DM.png";
 import Image from "next/image";
 
 export default function Dm() {

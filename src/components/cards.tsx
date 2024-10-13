@@ -1,12 +1,12 @@
 import Image from "next/image";
-import html from "../app/Public/html.webp";
-import css from "../app/public/css.webp";
-import js from "../app/public/js.webp";
-import dm from "../app/public/DM.webp";
-import acc from "../app/public/acc.webp";
-import gd from "../app/public/ps.webp";
-import ms from "../app/public/ms.webp";
-import dn from "../app/public/dnet.webp";
+import html from "../app/Public/html.png";
+import css from "../app/public/css.png";
+import js from "../app/public/js.png";
+import dm from "../app/public/DM.png";
+import acc from "../app/public/acc.png";
+import gd from "../app/public/pshop.png";
+import ms from "../app/public/msoff.png";
+import dn from "../app/public/dnet.png";
 import Link from "next/link";
 
 export default function Cards() {

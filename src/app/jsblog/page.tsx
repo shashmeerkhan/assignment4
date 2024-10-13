@@ -1,5 +1,5 @@
 import Image from "next/image";
-import js from "../Public/js.webp";
+import js from "../Public/js.png";
 
 export default function Js() {
   return (

@@ -1,4 +1,4 @@
-import ps from "../Public/pshop.png";
+import pshop from "../pics/pshop.png";
 import Image from "next/image";
 
 export default function Gd() {
@@ -11,7 +11,7 @@ export default function Gd() {
     <section>
         <h2>What is Graphic Design?</h2>
         <p>Graphic design is a creative field where designers use visual elements to communicate ideas, convey messages, or create visual experiences. It blends art and technology to create eye-catching and effective designs for various media, including digital platforms, print, advertising, and branding.</p>
-        <Image src={ps} alt="photo shop"/>
+        <Image src={pshop} alt="photo shop"/>
     </section>
 
     <section>

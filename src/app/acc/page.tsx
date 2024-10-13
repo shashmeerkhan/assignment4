@@ -1,4 +1,4 @@
-import acc from "../Public/acc.png";
+import acc from "../pics/acc.png";
 import Image from "next/image";
 
 export default function Acc() {

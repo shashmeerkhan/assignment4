@@ -1,4 +1,4 @@
-import html from "../Public/html.png"
+import html from "../pics/myhtml.png"
 import Image from "next/image";
 export default function Html() {
   return (

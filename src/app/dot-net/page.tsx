@@ -1,4 +1,4 @@
-import dn from "../Public/dnet.png";
+import dn from "../pics/dnet.png";
 import Image from "next/image";
 
 export default function Dn() {

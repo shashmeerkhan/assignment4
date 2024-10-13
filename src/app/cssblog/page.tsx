@@ -1,5 +1,5 @@
 import Image from "next/image";
-import css from "../public/css.png";
+import css from "../pics/css.png";
 
 export default function Css() {
   return (

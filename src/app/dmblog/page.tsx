@@ -1,4 +1,4 @@
-import dm from "../Public/DM.png";
+import digtal from "../pics/digitalmarketing.png";
 import Image from "next/image";
 
 export default function Dm() {
@@ -8,7 +8,7 @@ export default function Dm() {
         
       <h1 className="text-3xl font-bold text-center">The Power of Email Marketing: A Comprehensive Guide</h1>
       <div className="flex justify-center">
-        <Image src={dm} alt="digital marketing" height={200} width={250} className="rounded-lg shadow-md" />
+        <Image src={digtal} alt="digital marketing" height={200} width={250} className="rounded-lg shadow-md" />
       </div>
       <h2 className="text-2xl font-semibold mt-6">What is Email Marketing?</h2>
       <p className="text-lg mt-2">Email marketing is a form of digital marketing that uses email to promote products or services to potential or existing customers.</p>

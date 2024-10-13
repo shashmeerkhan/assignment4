@@ -1,5 +1,5 @@
 import Image from "next/image";
-import js from "../Public/js.png";
+import jas from "../pics/java.png";
 
 export default function Js() {
   return (
@@ -12,7 +12,7 @@ export default function Js() {
 
       <section className="p-6">
         <Image
-          src={js}
+          src={jas}
           alt="JavaScript Logo"
           width={300}
           height={200}

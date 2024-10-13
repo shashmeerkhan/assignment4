@@ -1,5 +1,5 @@
 import Image from "next/image";
-import mypic from "../public/mypic.png"; // Ensure correct casing in the folder path
+import mypic from "../pics/mypic.png"; // Ensure correct casing in the folder path
 
 export default function About() {
   return (

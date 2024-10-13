@@ -1,4 +1,4 @@
-import ms from "../Public/msoff.png";
+import ms from "../pics/msoff.png";
 import Image from "next/image";
 
 export default function MsOffice() {

@@ -1,12 +1,12 @@
 import Image from "next/image";
-import html from "../app/Public/html.png";
-import css from "../app/public/css.png";
-import js from "../app/public/js.png";
-import dm from "../app/public/DM.png";
-import acc from "../app/public/acc.png";
-import gd from "../app/public/pshop.png";
-import ms from "../app/public/msoff.png";
-import dn from "../app/public/dnet.png";
+import html from '../app/pics/myhtml.png';
+import css from '../app/pics/css.png';
+import jas from '../app/pics/java.png';
+import acco from '../app/pics/acc.png';
+import digtal from '../app/pics/digitalmarketing.png';
+import dnet from '../app/pics/dnet.png';
+import msoff from '../app/pics/msoff.png';
+
 import Link from "next/link";
 
 export default function Cards() {
@@ -18,7 +18,7 @@ export default function Cards() {
           <div className="p-[10px]">
             <Image
               className="rounded-xl"
-              src={acc}
+              src={acco}
               alt="Accounting picture"
               height={300}
               width={250}
@@ -39,7 +39,7 @@ export default function Cards() {
           <div className="rounded-3xl pl-12">
             <Image
               className="rounded-xl "
-              src={gd}
+              src={digtal}
               alt="CSS picture"
               height={120}
               width={160}
@@ -60,7 +60,7 @@ export default function Cards() {
             <div className="rounded-3xl pl-12">
               <Image
                 className="rounded-3xl"
-                src={dn}
+                src={dnet}
                 alt="DotNet picture"
                 height={120}
                  width={160}
@@ -82,7 +82,7 @@ export default function Cards() {
             <div className="rounded-3xl pl-12">
               <Image
                 className="rounded-3xl"
-                src={ms}
+                src={msoff}
                 alt="msoffice picture"
                 height={220}
                 width={240}
@@ -150,7 +150,7 @@ export default function Cards() {
             <div className="rounded-3xl pl-12">
               <Image
                 className="rounded-3xl"
-                src={js}
+                src={jas}
                 alt="JavaScript picture"
                 height={120}
                 width={140}
@@ -172,7 +172,7 @@ export default function Cards() {
             <div className="rounded-3xl pl-12">
               <Image
                 className="rounded-3xl"
-                src={dm}
+                src={digtal}
                 alt="Digital Marketing picture"
                 height={120}
                 width={140}
